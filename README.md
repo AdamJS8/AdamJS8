@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+As the Cob:web Lead I tend to use the Cob:web Development repositories, as that is a collection of all of our projects
+
+https://github.com/cobwebdev
+
+This GitHub will mostly be used as a testing ground for cobweb projects or random things I make
+
 <!--
 **AdamJS8/AdamJS8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
